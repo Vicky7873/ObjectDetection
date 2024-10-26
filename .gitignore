@@ -161,3 +161,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 yolov5/data/*
+v5/data/*
+v5/last.pt
+v5/best.pt
+v5/face_person.zip
