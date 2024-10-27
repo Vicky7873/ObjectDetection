@@ -1,0 +1,13 @@
+train: ../data/train/images
+val: ../data/valid/images
+test: ../data/test/images
+
+nc: 1
+names: ['chicken']
+
+roboflow:
+  workspace: object-detection-txakz
+  project: hard-hat-sample-h0zfe
+  version: 6
+  license: Public Domain
+  url: https://app.roboflow.com/object-detection-txakz/hard-hat-sample-h0zfe/6
