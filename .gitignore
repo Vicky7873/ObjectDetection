@@ -165,3 +165,6 @@ v5/data/*
 v5/last.pt
 v5/best.pt
 v5/face_person.zip
+yolov8/yolov8n.pt
+yolov8/yolov8n-seg.pt
+yolov8/YOLOv8m-cls.pt
