@@ -6,3 +6,6 @@
 # Face and preson reco in v5
 # Here i train the model using google colab download the model and download the yolo v5 complete data then add the app.py
 ![alt text](ss.png)
+
+# yolo v8
+![alt text](image-1.png)
